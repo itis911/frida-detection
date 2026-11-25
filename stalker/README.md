@@ -20,5 +20,4 @@ $CC -O2 -Wall -Wextra -o wd02 wd02.c
 
 ## Blog
 
-<!-- paste the link below -->
-coming soon
+[frida stalker under the hood new detection ways to catch a follow](https://itis911.github.io/writeups/frida-stalker-detection-new-ways.html)
